@@ -18,7 +18,7 @@
   "type": "module",
   "dependencies": {
     "bittorrent-dht": "^11.0.8",
-    "bittorrent-tracker": "^11.1.2",
+    "bittorrent-tracker": "github:uriva/bittorrent-tracker#0048f3a5e63b4f462c3efadcd7e0e968bfaec571",
     "bittorrent-lsd": "^2.0.0",
     "debug": "^4.3.7",
     "run-parallel": "^1.2.0"
